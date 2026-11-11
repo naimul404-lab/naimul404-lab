@@ -1,76 +1,58 @@
 <div align="center">
 
-# `naimul404-lab` <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" alt="wave" />
+# Naimul Islam
 
-### `while (curious) { learn(); build(); repeat(); }`
+**Developer · Computer science learner · Building in public**
 
-**Developer in progress · Open-source learner · Building in public**
+I learn by building practical programming examples and beginner-friendly projects. My goal is to make computer science easier to explore through clear explanations and hands-on practice.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-9FE870?style=for-the-badge&logo=github&logoColor=101510)](https://naimul404-lab.github.io/naimul404-lab/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-202820?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naimul404-lab)
+[Portfolio](https://naimul404-lab.github.io/naimul404-lab/) · [GitHub repositories](https://github.com/naimul404-lab?tab=repositories)
 
 </div>
 
-```text
-┌─[naimul@github]─[~/about]
-└──╼ $ whoami
-     A curious developer learning by building practical code examples and projects.
-```
+---
 
-## `> about_me`
+## About
 
-- 🌱 Learning programming fundamentals by writing and improving code.
-- 🧪 Exploring several languages through hands-on examples and practice repositories.
-- 🎯 Working toward useful, student-friendly computer science learning resources.
-- 🤝 Open to feedback, collaboration, and beginner-friendly open-source contributions.
+- Building a foundation in programming and computer science through consistent practice.
+- Exploring multiple languages by creating examples, exercises, and small projects.
+- Interested in making useful learning resources for students and beginners.
+- Open to constructive feedback and beginner-friendly collaboration.
 
-## `> current_toolbox`
+## Featured learning repositories
 
-![Python](https://img.shields.io/badge/Python-1f2937?style=flat-square&logo=python&logoColor=3776AB)
-![JavaScript](https://img.shields.io/badge/JavaScript-1f2937?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-1f2937?style=flat-square&logo=openjdk&logoColor=ED8B00)
-![C](https://img.shields.io/badge/C-1f2937?style=flat-square&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C%2B%2B-1f2937?style=flat-square&logo=cplusplus&logoColor=00599C)
-![CSharp](https://img.shields.io/badge/C%23-1f2937?style=flat-square&logo=csharp&logoColor=512BD4)
-![PHP](https://img.shields.io/badge/PHP-1f2937?style=flat-square&logo=php&logoColor=777BB4)
-![Ruby](https://img.shields.io/badge/Ruby-1f2937?style=flat-square&logo=ruby&logoColor=CC342D)
-![HTML5](https://img.shields.io/badge/HTML5-1f2937?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-1f2937?style=flat-square&logo=css3&logoColor=1572B6)
-![Git](https://img.shields.io/badge/Git-1f2937?style=flat-square&logo=git&logoColor=F05032)
-
-> These are the languages and tools represented in my learning repositories; I’m continuing to grow my skills through practice.
-
-## `> featured_learning_repositories`
-
-| Repository | What you can explore |
+| Repository | Focus |
 | --- | --- |
-| [Python Complete Pack](https://github.com/naimul404-lab/python-complete-pack) | Python examples and practice |
+| [Python Complete Pack](https://github.com/naimul404-lab/python-complete-pack) | Python concepts and practice examples |
 | [JavaScript](https://github.com/naimul404-lab/javascript-) | JavaScript learning and web practice |
 | [Advanced C++](https://github.com/naimul404-lab/advanced-cpp-complete) | C++ concepts and exercises |
-| [Java Complete Pack](https://github.com/naimul404-lab/java-complete-pack) | Java examples and fundamentals |
+| [Java Complete Pack](https://github.com/naimul404-lab/java-complete-pack) | Java fundamentals and examples |
 | [C Complete Pack](https://github.com/naimul404-lab/c-complete-pack) | C programming practice |
-| [Ruby Complete Pack](https://github.com/naimul404-lab/ruby-complete-pack) | Ruby concepts and small exercises |
+| [Ruby Complete Pack](https://github.com/naimul404-lab/ruby-complete-pack) | Ruby fundamentals and exercises |
 | [C# Complete Pack](https://github.com/naimul404-lab/csharp-complete-pack-) | C# and .NET learning |
-| [PHP Bootcamp](https://github.com/naimul404-lab/php-bootcamp) | PHP learning exercises |
+| [PHP Bootcamp](https://github.com/naimul404-lab/php-bootcamp) | PHP practice and web fundamentals |
 
-## `> my_approach`
+## Technologies I'm exploring
 
-```python
-for concept in computer_science:
-    learn(concept)
-    practice_with_code(concept)
-    explain_what_i_learned(concept)
+`Python` · `JavaScript` · `Java` · `C` · `C++` · `C#` · `PHP` · `Ruby` · `HTML` · `CSS` · `Git`
+
+These reflect the topics in my learning repositories; I’m continuing to develop my skills through practice and projects.
+
+## Learning approach
+
+```text
+Learn a concept → write code → test it → explain it → improve it
 ```
 
-## `> find_me`
+## Connect
 
-- 🌐 Portfolio: [naimul404-lab.github.io/naimul404-lab](https://naimul404-lab.github.io/naimul404-lab/)
-- 💻 GitHub: [@naimul404-lab](https://github.com/naimul404-lab)
+- Portfolio: [naimul404-lab.github.io/naimul404-lab](https://naimul404-lab.github.io/naimul404-lab/)
+- GitHub: [@naimul404-lab](https://github.com/naimul404-lab)
+
+---
 
 <div align="center">
 
-```text
-[ learning never stops ]
-```
+*Thanks for visiting. Explore the repositories, try the examples, and share feedback.*
 
 </div>
