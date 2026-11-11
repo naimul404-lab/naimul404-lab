@@ -2,11 +2,12 @@
 
 # Naimul Islam
 
-**Developer · Computer science learner · Building in public**
+### Developer · Computer science learner · Building in public
 
-I learn by building practical programming examples and beginner-friendly projects. My goal is to make computer science easier to explore through clear explanations and hands-on practice.
+I learn by building real projects, writing practical examples, and creating student-friendly learning resources.
 
-[Portfolio](https://naimul404-lab.github.io/naimul404-lab/) · [GitHub repositories](https://github.com/naimul404-lab?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-141a14?style=for-the-badge&logo=github&logoColor=9FE870)](https://naimul404-lab.github.io/naimul404-lab/)
+[![GitHub](https://img.shields.io/badge/GitHub-@naimul404-lab-202820?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naimul404-lab)
 
 </div>
 
@@ -14,34 +15,43 @@ I learn by building practical programming examples and beginner-friendly project
 
 ## About
 
-- Building a foundation in programming and computer science through consistent practice.
-- Exploring multiple languages by creating examples, exercises, and small projects.
-- Interested in making useful learning resources for students and beginners.
-- Open to constructive feedback and beginner-friendly collaboration.
+I focus on learning programming and computer science through practical work, structured exercises, and beginner-friendly content. My goal is to make core technical concepts easier to understand and apply.
 
-## Featured learning repositories
+- Building a strong foundation in programming and problem solving
+- Exploring multiple languages through hands-on examples
+- Creating resources for students and early learners
+- Learning in public and improving with each project
 
-| Repository | Focus |
+## Main focus
+
+- Programming fundamentals
+- Data structures and algorithms
+- OOP and software design
+- Databases and backend basics
+- Operating systems and networking
+- Linux, Git, and web basics
+
+## Featured repositories
+
+| Repository | Purpose |
 | --- | --- |
-| [Python Complete Pack](https://github.com/naimul404-lab/python-complete-pack) | Python concepts and practice examples |
-| [JavaScript](https://github.com/naimul404-lab/javascript-) | JavaScript learning and web practice |
-| [Advanced C++](https://github.com/naimul404-lab/advanced-cpp-complete) | C++ concepts and exercises |
-| [Java Complete Pack](https://github.com/naimul404-lab/java-complete-pack) | Java fundamentals and examples |
-| [C Complete Pack](https://github.com/naimul404-lab/c-complete-pack) | C programming practice |
-| [Ruby Complete Pack](https://github.com/naimul404-lab/ruby-complete-pack) | Ruby fundamentals and exercises |
-| [C# Complete Pack](https://github.com/naimul404-lab/csharp-complete-pack-) | C# and .NET learning |
-| [PHP Bootcamp](https://github.com/naimul404-lab/php-bootcamp) | PHP practice and web fundamentals |
+| [computer-science-roadmap](https://github.com/naimul404-lab/computer-science-roadmap) | Beginner-friendly CS roadmap and learning path |
+| [coding-practice-questions](https://github.com/naimul404-lab/coding-practice-questions) | Practice exercises and coding challenges |
+| [python-complete-pack](https://github.com/naimul404-lab/python-complete-pack) | Python examples and exercises |
+| [java-complete-pack](https://github.com/naimul404-lab/java-complete-pack) | Java fundamentals and examples |
+| [javascript-](https://github.com/naimul404-lab/javascript-) | JavaScript learning and practice |
+| [ruby-complete-pack](https://github.com/naimul404-lab/ruby-complete-pack) | Ruby language learning and exercises |
 
-## Technologies I'm exploring
+## Technologies I'm learning
 
 `Python` · `JavaScript` · `Java` · `C` · `C++` · `C#` · `PHP` · `Ruby` · `HTML` · `CSS` · `Git`
 
-These reflect the topics in my learning repositories; I’m continuing to develop my skills through practice and projects.
+These are the main languages and tools represented in my learning repositories. I am continuing to build hands-on experience and improve through consistent practice.
 
 ## Learning approach
 
 ```text
-Learn a concept → write code → test it → explain it → improve it
+Learn concept -> write code -> solve problems -> build small projects -> improve
 ```
 
 ## Connect
@@ -53,6 +63,6 @@ Learn a concept → write code → test it → explain it → improve it
 
 <div align="center">
 
-*Thanks for visiting. Explore the repositories, try the examples, and share feedback.*
+*Learning by building, improving by practicing, and sharing useful knowledge along the way.*
 
 </div>
