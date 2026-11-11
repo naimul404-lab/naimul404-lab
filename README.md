@@ -12,13 +12,17 @@ I enjoy exploring programming languages by creating hands-on examples, small pro
 
 ## About
 
-- 📚 Creating beginner-friendly programming packs with examples and small projects
-- 🧩 Exploring programming fundamentals, object-oriented design, and practical problem-solving
-- 🌱 Continuously learning and improving across different languages and tools
+- 📚 Creating beginner-friendly programming packs with examples and projects
+- 🧩 Exploring language fundamentals, object-oriented design, and problem-solving
+- 🌱 Continuously learning and improving across multiple languages and tools
+
+## Portfolio site
+
+This repository also serves as a simple GitHub Pages portfolio site.
+
+- Live site: https://naimul404-lab.github.io/naimul404-lab/
 
 ## Languages and learning projects
-
-These repositories collect examples and practice projects for each language:
 
 | Language | Repository |
 | --- | --- |
@@ -31,12 +35,12 @@ These repositories collect examples and practice projects for each language:
 | Python | [python-complete-pack](https://github.com/naimul404-lab/python-complete-pack) |
 | Ruby | [ruby-complete-pack](https://github.com/naimul404-lab/ruby-complete-pack) |
 
-## What you'll find here
+## What you will find here
 
 - Clear, runnable code examples
-- Core language concepts and programming patterns
-- Small command-line and web projects
-- Learning repositories that grow over time
+- Core language concepts and practice patterns
+- Small CLI and project-based learning examples
+- A growing portfolio of work and learning progress
 
 ## Connect
 
